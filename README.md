@@ -9,9 +9,11 @@
 ATM app is built with React.
 
 <p>
-Mainly used two basic Hooks APIs of React, to develop ToDoList page
-* useState
-* useEffect
+Added features:
+* Changed look of the page and Title
+* Submit button enable after entering amount
+* Showing alert if insufficient money to withdraw
+* removed Number increament style from amount Input field
 
 Other Stack features Used to build this app: CSS, HTML, JavaScripts, React
 </p>
