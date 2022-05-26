@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Hello%20World!&fontSize=30&desc=Welcome%20To%20My%20Future%0ABouce&animation=scaleIn&fontAlign=20&rotate=-30)
 
  ## ATM App
- 
-<pre><img align="center" src="./img/bb.gif.gif" alt="Bouncing Balls GIF" >   
 
 ATM app is built with React.
 
@@ -17,8 +15,6 @@ Added features:
 
 Other Stack features Used to build this app: CSS, HTML, JavaScripts, React
 </p>
-
-</em></p> </pre> 
 
 Simple React ATM
 <img src="./atm.png" />
